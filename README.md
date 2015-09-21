@@ -23,6 +23,7 @@ are typing.
 
 * There is an Auto-Complete field that displays the closest match to the user's search.
 * The way that the Auto-Complete is generated is by finding the most characters that match in the list.
+* The user can press the space bar or click the "Auto-Complete" button to complete the field with the word in the Auto-Complete field.
 
 ## Installation
 To run the program, double click on the program once it is downloaded on your computer. If that does not bring up the GUI, then run the program from the command line.
