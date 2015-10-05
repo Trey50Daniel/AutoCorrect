@@ -1,6 +1,8 @@
 # AutoCorrect
 -------------------------------------
 This program was written in two weeks
+and presented at JSU's annual
+Student Research Symposium
 -------------------------------------
 
 -------------------------------------
