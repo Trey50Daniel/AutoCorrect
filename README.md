@@ -1,8 +1,6 @@
 # AutoCorrect
 -------------------------------------
-_This_ _program_ _was_ _written_ _in_ _two_ _weeks_
-_and_ _presented_ _at_ _JSU's_ _annual_
-Student Research Symposium
+_This program was written in two weeks and presented at JSU's annual Student Research Symposium_
 -------------------------------------
 
 -------------------------------------
