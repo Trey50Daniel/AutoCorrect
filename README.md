@@ -1,6 +1,6 @@
 # AutoCorrect
 -------------------------------------
-_This program was written in two weeks and presented at JSU's annual Student Research Symposium_
+_This program was pretty simple but I presented it at JSU's annual Student Research Symposium_
 -------------------------------------
 
 -------------------------------------
