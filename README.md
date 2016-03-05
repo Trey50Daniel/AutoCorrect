@@ -1,6 +1,6 @@
 # AutoCorrect
 -------------------------------------
-_This program was pretty simple but I presented it at JSU's annual Student Research Symposium_
+_I presented this program at JSU's annual Student Research Symposium_
 -------------------------------------
 
 -------------------------------------
