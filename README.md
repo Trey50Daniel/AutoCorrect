@@ -26,6 +26,7 @@ are typing.
 * The user can press the space bar or click the "Auto-Complete" button to complete the field with the word in the Auto-Complete field.
 
 ## Installation
+Once, you have downloaded both files and stored them in the same directory:
 To run the program, double click on the program once it is downloaded on your computer. If that does not bring up the GUI, then run the program from the command line.
 ## Usage
 Run the program and search different words to test the functionality of the Auto-Complete function.
